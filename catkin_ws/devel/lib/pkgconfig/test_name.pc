@@ -1,0 +1,8 @@
+prefix=/home/mrdragon/catkin_ws/devel
+
+Name: test_name
+Description: Description of test_name
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
